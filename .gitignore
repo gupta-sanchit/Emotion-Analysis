@@ -4,6 +4,7 @@
 
 ### Data ###
 dataset/
+.virtual_documents/
 *.csv
 *.dat
 *.efx
